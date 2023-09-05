@@ -27,7 +27,7 @@ while True:
     elif user_input == 'scissor' and computer_pick=='paper':
         print('You won')
         user_wins += 1
-ß
+
     else:
         print('You lost')
         computer_wins += 1
